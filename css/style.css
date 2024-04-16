@@ -7099,7 +7099,8 @@ img {
 	bottom: 0;
 	height: 1px;
 	width: 40px;
-	background-color: #f70068;
+	/* background-color: #f70068; */
+	background: linear-gradient(to left, #15803D 0%, #faaC1D 100%);
 	content: '';
 }
 
